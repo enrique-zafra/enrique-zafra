@@ -1,7 +1,7 @@
 title: Enrique Zafra
 author:
   name: Enrique Zafra
-  email: enrique.web@icloud.com
+  email: nrqzfr@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Reflexiones y meditaciones personales en forma de poesía sobre no dualidad, taoísmo, mística cristiana
   advaita vedanta, sufismo, budismo. La inspiración la encuentro en autores como Nisargadatta Maharaj, Ramana Maharsi, 
@@ -63,6 +63,8 @@ plugins:
 
 paginate: 10
 paginate_path: posts/page:num/
+
+google_analytics: UA-154724585-1
 
 # Excludes
 exclude: [ CODE_OF_CONDUCT.md, Gemfile, Gemfile.lock, History.markdown, minima.gemspec, LICENSE.txt, README.md, screenshot.png ]
