@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Nada"
+title: "Entretenimiento"
 description: "Si todo surge de la nada, ¿qué me hará escribir estas palabras que siempre en la nada acaban?"
-image: "/images/2020-02-18-nada.jpg"
+image: "/images/2020-02-18-entretenimiento.jpg"
 ---
 
 <img src="{{page.image | prepend: site.baseurl}}" class="round">
