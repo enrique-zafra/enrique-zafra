@@ -20,7 +20,7 @@ El orgullo desfallece
 y la vanidad languidece.
 
 Entre idas y venidas,  
-entre dudas y dilemas, 
+entre dudas y dilemas,  
 ¿qué queda?
 
 Solo veo entretenimiento  
