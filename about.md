@@ -7,9 +7,6 @@ permalink: /about/
 <img src="{{site.baseurl}}/images/acerca-de.jpg" class="round">
 
 Necesidad de expresar o simple vanidad, quién sabe.  
-Medito al escribir o escribo al meditar, quién sabe.  
-Deseo confiar o confío en el deseo, quién sabe.
-
 Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales que surgen del silencio por simple entretenimiento.
 
 <blockquote>
