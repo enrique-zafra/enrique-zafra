@@ -364,7 +364,7 @@ img { display: block; margin: 0 0 1rem; max-width: 100%; }
 
 .post-item { border-bottom: 1px solid #e5e5e5; color: #555; display: block; padding: 2rem 0; }
 
-.post-item:hover .post-line, .post-item:focus .post-line { width: 5rem; }
+.post-item:hover .post-item-line, .post-item:focus .post-item-line { width: 5rem; }
 
 .post-item:visited { color: #555; }
 

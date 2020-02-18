@@ -120,8 +120,8 @@ img {
     display: block;
     padding: 2rem 0;
 
-    &:hover .post-line,
-    &:focus .post-line {
+    &:hover .post-item-line,
+    &:focus .post-item-line {
       width: 5rem;
     }
 
