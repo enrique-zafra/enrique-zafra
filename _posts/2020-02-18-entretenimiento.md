@@ -7,8 +7,7 @@ image: "/images/2020-02-18-entretenimiento.jpg"
 
 <img src="{{page.image | prepend: site.baseurl}}" class="round">
 
-Si todo surge en la nada,  
-¿qué hará escribir palabras  
+¿Qué hará escribir palabras  
 que siempre en la nada acaban?
 
 Tarde o temprano  

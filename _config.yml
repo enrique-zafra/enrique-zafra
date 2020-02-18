@@ -3,7 +3,7 @@ author:
   name: Enrique Zafra
   email: nrqzfr@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales 
+  Nada sé y nada puedo enseñar, tan sólo puedo compartir algunas reflexiones en forma de poesía 
   que surgen del silencio por simple entretenimiento.
 
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -15,12 +15,12 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: enrq_zafra
+    #twitter: enrq_zafra
     # github:  jekyll
     rss: rss
     # devto: jekyll
     # dribbble: jekyll
-    facebook: enrqzafra
+    #facebook: enrqzafra
     # flickr:   jekyll
     # instagram: zafra.enrique
     # linkedin: jekyll
