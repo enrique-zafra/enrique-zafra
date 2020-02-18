@@ -6,11 +6,23 @@ permalink: /about/
 
 <img src="{{site.baseurl}}/images/acerca-de.jpg" class="round">
 
-Reflexiones y meditaciones personales en forma de poesía sobre no dualidad, taoísmo, mística cristiana 
-advaita vedanta, sufismo, budismo. 
+Necesidad de expresar o simple vanidad, quién sabe.  
+Medito para escribir o escribo para meditar, quién sabe.
 
-Busco inspiración en autores como Nisargadatta Maharaj, Ramana Maharsi, Rumi, Santa Teresa de Ávila, Miguel de Molinos, etc.
+Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales, 
+en forma de poesía, que hago por simple entretenimiento.
 
-Siéntete libre para hacer un comentario o preguntar cualquier duda en [{{ site.author.email }}](mailto:{{ site.author.email }})
+<blockquote>
+<p>Vacíate de preocupaciones<br>
+¡Piensa en quién creó el pensamiento!</p>
+<p>¿Por qué permaneces en la cárcel<br>
+cuando la puerta está abierta de par en par?</p>
+<p>Deshazte de pensamientos temerosos.<br>
+Vive en el silencio</p>
+<p>Rumi</p>
+</blockquote>
+
+Siéntete libre para hacer comentarios o preguntar lo que quieras.  
+Mi email es [{{ site.author.email }}](mailto:{{ site.author.email }})
 
 Gracias por leer!
