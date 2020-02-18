@@ -7,7 +7,6 @@ permalink: /about/
 <img src="{{site.baseurl}}/images/acerca-de.jpg" class="round">
 
 Necesidad de expresar o simple vanidad, quién sabe.  
-Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales que surgen del silencio por simple entretenimiento.
 
 <blockquote>
 <p>Nada es espera,<br>
