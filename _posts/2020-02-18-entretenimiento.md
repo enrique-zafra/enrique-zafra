@@ -21,8 +21,6 @@ y la vanidad languidece.
 
 Entre idas y venidas,  
 entre dudas y dilemas,  
-¿qué queda?
-
-Solo veo entretenimiento  
+solo veo entretenimiento  
 para escapar del aburrimiento  
 y esquivar el sufrimiento.
