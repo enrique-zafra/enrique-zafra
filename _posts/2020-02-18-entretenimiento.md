@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Entretenimiento"
-description: "Si todo surge de la nada, ¿qué hará escribir palabras que siempre en la nada acaban?"
+description: "¿Qué me hace escribir palabras que siempre en la nada acaban?"
 image: "/images/2020-02-18-entretenimiento.jpg"
 ---
 
