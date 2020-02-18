@@ -9,8 +9,7 @@ permalink: /about/
 Necesidad de expresar o simple vanidad, quién sabe.  
 Medito para escribir o escribo para meditar, quién sabe.
 
-Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales, 
-en forma de poesía, que hago por simple entretenimiento.
+Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales que hago por simple entretenimiento.
 
 <blockquote>
 <p>Vacíate de preocupaciones<br>

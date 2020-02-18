@@ -3,8 +3,8 @@ author:
   name: Enrique Zafra
   email: nrqzfr@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales, 
-  en forma de poesía, que hago por simple entretenimiento.
+  Puesto que nada sé, nada puedo enseñar, tan sólo puedo compartir algunas reflexiones y meditaciones personales 
+  que hago por simple entretenimiento.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
