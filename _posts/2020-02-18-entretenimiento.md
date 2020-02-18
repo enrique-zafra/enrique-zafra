@@ -7,7 +7,7 @@ image: "/images/2020-02-18-entretenimiento.jpg"
 
 <img src="{{page.image | prepend: site.baseurl}}" class="round">
 
-Si todo surge de la nada,  
+Si todo surge en la nada,  
 ¿qué me hará escribir estas palabras  
 que siempre en la nada acaban?
 
@@ -22,7 +22,7 @@ el orgullo desfallece
 y la vanidad languidece.
 
 Entre idas y venidas,  
-entre duda y certeza,  
+entre dudas y dilemas,  
 solo hay entretenimiento  
 para combatir el aburrimiento  
 y esquivar el sufrimiento.
