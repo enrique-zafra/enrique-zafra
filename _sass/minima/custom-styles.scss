@@ -109,7 +109,7 @@ img {
  * Page content
  */
 .page-content {
-  padding: 0;
+  padding: 1rem 0;
   flex: 1 0 auto;
 }
 
@@ -210,7 +210,7 @@ img {
   }
 
   img {
-    margin: 0 auto 0.5rem;
+    margin: 0 auto 1rem;
   }
 
   img + em {
@@ -249,7 +249,7 @@ img {
 .paginator {
   border-top: 0.5px solid $grey-2;
   font-family: $serif-secondary;
-  padding-top: 2rem;
+  padding: 2rem 0;
   position: relative;
   text-align: center;
 

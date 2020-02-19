@@ -4,17 +4,15 @@ title: Acerca de
 permalink: /about/
 ---
 
-<img src="{{site.baseurl}}/images/acerca-de.jpg" class="round">
+<img src="{{site.baseurl}}/images/2019-02-19-noego.jpg" style="margin-bottom: 3rem;">
 
-Necesidad de expresar o simple vanidad, quién sabe.  
+Disponible en Amazon en <a href="https://www.amazon.es/dp/B07ND5965V">versión kindle</a> o en <a href="https://www.amazon.es/dp/8409088703">tapa blanda</a>.
 
 <blockquote>
-<p>Nada es espera,<br>
-todo es ahora<br>
-y el ahora no espera.</p>
+<p>Sin ego es el principio,<br>
+con ego no es el verdadero principio.</p>
 </blockquote>
 
-Siéntete libre para hacer comentarios o preguntar lo que quieras.  
-Mi email es [{{ site.author.email }}](mailto:{{ site.author.email }})
+Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
 
 Gracias por leer!

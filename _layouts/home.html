@@ -14,6 +14,7 @@ layout: default
     {% for post in posts %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-item">
         <div>
+          {% comment %}
           <time datetime="{{ post.date }}" class="post-meta">
             {% assign m = post.date | date: "%-m" %}
             {% case m %}
@@ -32,6 +33,7 @@ layout: default
             {% endcase %}
             {{ post.date | date: "%-d, %Y" }}
           </time>
+          {% endcomment %}
           <h1 class="post-item-title">{{ post.title | escape }}</h1>
           <div class="post-item-line"></div>
           <p class="post-excerpt">{{ post.content | strip_html | truncatewords: 30 }}</p>
@@ -48,7 +50,7 @@ layout: default
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
     {% endif %}
   
-    <span>{{ paginator.page }}</span>
+    <!-- <span>{{ paginator.page }}</span> -->
   </div>
 
   {% comment %}
