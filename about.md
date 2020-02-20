@@ -4,9 +4,7 @@ title: Acerca de
 permalink: /about/
 ---
 
-<img src="{{site.baseurl}}/images/2019-02-19-noego.jpg" style="margin-bottom: 3rem;">
-
-Disponible en Amazon en <a href="https://www.amazon.es/dp/B07ND5965V">versión kindle</a> o en <a href="https://www.amazon.es/dp/8409088703">tapa blanda</a>.
+<img src="{{site.baseurl}}/images/acerca-de.jpg" class="round">
 
 <blockquote>
 <p>Sin ego es el principio,<br>
